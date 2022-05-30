@@ -1,2 +1,2 @@
 # FM-Challenge
-Challenge o Frontend Mentor
+Challenge of the Frontend Mentor
